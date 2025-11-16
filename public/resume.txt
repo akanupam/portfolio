@@ -1,0 +1,40 @@
+ADITYA - RESUME
+===============
+
+Computer Science Student | Full-Stack Developer
+
+EDUCATION
+---------
+Bachelor of Technology - Computer Science (Expected 2025)
+
+SKILLS
+------
+Languages: JavaScript, TypeScript, Python
+Frontend: React, Next.js, HTML, CSS
+Backend: Node.js, Express, MongoDB
+Tools: Git, Linux, Docker
+
+PROJECTS
+--------
+Project A - Full Stack Web Application
+- Built with React and Node.js
+- Database: MongoDB
+
+Project B - Algorithm Implementation
+- Data Structures and Algorithms
+- Python
+
+EXPERIENCE
+----------
+- Internship / Projects
+- Web Development
+- Systems Design
+
+CONTACT
+-------
+Email: youremail@example.com
+GitHub: github.com/yourname
+LinkedIn: linkedin.com/in/yourname
+
+---
+This is a placeholder resume. Replace with your actual resume.
